@@ -1,0 +1,23 @@
+{
+  "name": "node-blog",
+  "version": "1.0.0",
+  "description": "node blug using EJS and Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdavidgrant/node-blog.git"
+  },
+  "author": "David Grant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrdavidgrant/node-blog/issues"
+  },
+  "homepage": "https://github.com/mrdavidgrant/node-blog#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  }
+}
